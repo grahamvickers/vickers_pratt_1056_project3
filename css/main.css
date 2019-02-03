@@ -243,3 +243,69 @@
 	margin: 0 auto;
 	margin-bottom: 20px;
 }
+
+/* Newsletters Page Elements*/
+
+#title{
+	height: 50px;
+	width: 300px;
+	background-color: black;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+#intro{
+	display: flex;
+	flex-direction: column;
+
+}
+
+#introH2{
+	width: 570px;
+	height: 40px;
+	background-color: black;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+#introP{
+	width: 410px;
+	height: 230px;
+	background-color: black;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+#archive{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+}
+
+#archiveH2{
+	width: 580px;
+	height: 70px;
+	background-color: black;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+#boxLeft{
+	width: 400px;
+	height: 440px;
+	background-color: black;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+#boxRight{
+	width: 400px;
+	height: 440px;
+	background-color: black;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin-right: 10px
+}
